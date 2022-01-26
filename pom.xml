@@ -59,7 +59,7 @@
                         </manifest>
                         <manifestEntries>
                             <Premain-Class>jn.agent.LoadTimeAgent</Premain-Class>
-                            <Boot-Class-Path>boot-filter.jar</Boot-Class-Path>
+                            <Boot-Class-Path>boot-support.jar</Boot-Class-Path>
                             <Can-Redefine-Classes>true</Can-Redefine-Classes>
                             <Can-Retransform-Classes>true</Can-Retransform-Classes>
                             <Can-Set-Native-Method-Prefix>true</Can-Set-Native-Method-Prefix>
