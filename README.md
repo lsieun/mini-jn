@@ -4,6 +4,18 @@
 
 `mini-jn`是对 [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) 的精简。
 
+代码克隆：
+
+```text
+git clone https://gitee.com/lsieun/mini-jn
+```
+
+视频介绍：
+
+```text
+https://www.bilibili.com/video/BV1nS4y1r7Ud
+```
+
 ## 开发环境
 
 - Java 8
